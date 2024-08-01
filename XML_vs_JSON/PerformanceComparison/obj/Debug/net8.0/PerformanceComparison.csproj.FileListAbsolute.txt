@@ -1,0 +1,14 @@
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.AssemblyInfoInputs.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.AssemblyInfo.cs
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.csproj.CoreCompileInputs.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\bin\Debug\net8.0\PerformanceComparison.exe
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\bin\Debug\net8.0\PerformanceComparison.deps.json
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\bin\Debug\net8.0\PerformanceComparison.runtimeconfig.json
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\bin\Debug\net8.0\PerformanceComparison.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\bin\Debug\net8.0\PerformanceComparison.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\refint\PerformanceComparison.dll
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.pdb
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\PerformanceComparison.genruntimeconfig.cache
+C:\Users\sgtun\Desktop\BilgeADAM\HS-15-VS\XMLvsJSON\XML_vs_JSON\PerformanceComparison\obj\Debug\net8.0\ref\PerformanceComparison.dll
